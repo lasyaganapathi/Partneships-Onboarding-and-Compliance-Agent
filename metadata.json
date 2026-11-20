@@ -1,0 +1,8 @@
+{
+  "name": "Accordia — Partner Onboarding & Compliance",
+  "description": "Partner onboarding and compliance agent for automated document extraction, configurable requirement verification, discrepancy detection, stakeholder routing, approval tracking, and audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
